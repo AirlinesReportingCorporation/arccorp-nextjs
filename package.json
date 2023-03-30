@@ -1,0 +1,29 @@
+{
+  "name": "arccorp-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "arccorp-vars": "^0.0.4",
+    "moment": "^2.29.3",
+    "next": "12.1.6",
+    "podcast-widget": "^1.0.12",
+    "react": "18.1.0",
+    "react-app-polyfill": "^3.0.0",
+    "react-dom": "18.1.0",
+    "sass": "^1.52.1",
+    "sass-loader": "^13.0.0",
+    "script-loader": "^0.7.2",
+    "swiper": "^8.2.1",
+    "vanilla-lazyload": "^17.8.2"
+  },
+  "devDependencies": {
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
